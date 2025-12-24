@@ -33,7 +33,7 @@
 ---
 
 ## 🏆 Achievements
-🚧 Coming Soon – Building skills, projects, and milestones.
+🚧 Building skills, projects, and milestones.
 
 ---
 
