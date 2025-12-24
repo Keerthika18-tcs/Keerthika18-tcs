@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 👩‍🏫 Working as a Computer Science Trainer (Part-time)
+- 👩‍🏫 Working as a Computer Science and Computer Application staff @American Institute (Part-time)
 - 🌱 Learning React & Data Structures
 - 🤖 Interested in Machine Learning & Web Development
 - 📫 Reach me: kit27.ad028@gmail.com
